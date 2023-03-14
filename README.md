@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kieko
 - 👀 I’m interested in development, cooking and sports
-- 🌱 I’m currently learning python, NodeJs, Web Services
+- 🌱 I’m currently learning python, NodeJs, React and Redux
 - 💞️ I’m looking to collaborate on mobile and web dev
 - 📫 How to reach me Send me an email to: diego_ivanmondragon@hotmail.com
